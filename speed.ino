@@ -1,5 +1,4 @@
 
-const int HALLSEN_A = 18; 
 volatile long encoderValue = 0;
 
 int interval = 1000;
